@@ -56,5 +56,6 @@ TODO:
 * select
 * sync.Mutex
 * init statement/anonymous import
+* iota in const
 
 Where to go next?
