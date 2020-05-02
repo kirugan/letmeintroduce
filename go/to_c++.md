@@ -55,5 +55,6 @@ TODO:
 * channels
 * select
 * sync.Mutex
+* init statement/anonymous import
 
 Where to go next?
