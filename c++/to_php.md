@@ -1,6 +1,14 @@
 ## How to write static properties
 <table>
   <tr>
+    <th>
+      php
+    </th>
+    <th>
+      c++
+    </th>
+  </tr>
+  <tr>
     <td>
       <pre lang="php">       
 class Test {
