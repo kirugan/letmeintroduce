@@ -12,7 +12,7 @@
     <td>
       <pre lang="php">       
 class Test {
- static $prop = 34.4;
+   static $prop = 34.4;
 }
       </pre>
     </td>
@@ -22,7 +22,7 @@ class Test {
 // in *.h file
 class Test {
 public:
-    static int test;
+   static int test;
 };
 // in *.cpp file
 int Test::test = 34.4;
