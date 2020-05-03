@@ -50,7 +50,7 @@ TODO:
 * method pointer
 * pointer receivers
 * interface type (duck typing) & type assertions/type switches
-* how to work with errors
+* how to work with errors, panics
 * goroutines vs threads
 * channels
 * select
